@@ -1,12 +1,18 @@
-- 👋 Hi, I’m @darshikadubey67
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+ Greetings, I am Darshika Dubey
 
-<!---
-darshikadubey67/darshikadubey67 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Current Learning Endeavors
+-Cloud Computing, Python, Javascript, HTML5, CSS, C.
+ 
+Collaboration Opportunity
+- Team-based projects, Open source projects. 
+
+ Contact Information
+- LINKEDIN PROFILE: www.linkedin.com/in/darshika-dubey-48b65b335
+- EMAIL-ID= darshikadubey67@gmail.com
+
+Pronouns
+- SHE/HER
+ 
+👀 I’m interested in ...
+- Machine learning , Data science and analystics, Software Engineer, Cloud Computing, AI, Cybersecurity, Full Stack Development etc. 
+  
